@@ -1,0 +1,208 @@
+
+[FATAL] 2022-08-09 13:10:14.323 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:10:14.378 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:10:32.040 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:10:32.218 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:10:37.991 [main] Steps - login button clicked
+[INFO ] 2022-08-09 13:10:38.002 [main] Steps - user can view dashboard test passed.
+[INFO ] 2022-08-09 13:10:38.094 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:10:43.242 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:10:45.529 [main] Steps - user clicked add new button..
+[INFO ] 2022-08-09 13:10:45.552 [main] Steps - User can view Add new customer page- passed
+[INFO ] 2022-08-09 13:10:46.227 [main] Steps - customer information entered..
+[INFO ] 2022-08-09 13:10:47.833 [main] Steps - user clicked on save button..
+[INFO ] 2022-08-09 13:10:47.952 [main] Steps - User can view confirmation message - passed
+[INFO ] 2022-08-09 13:10:48.044 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:10:48.934 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:10:48.936 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:10:49.814 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:10:49.988 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:10:52.754 [main] Steps - login button clicked
+[INFO ] 2022-08-09 13:10:52.804 [main] Steps - user can view dashboard test passed.
+[INFO ] 2022-08-09 13:10:53.004 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:10:56.300 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:10:56.390 [main] Steps - email add entered..
+[INFO ] 2022-08-09 13:10:56.446 [main] Steps - Clicked on search button.
+[INFO ] 2022-08-09 13:10:58.504 [main] Steps - User should found Email in the Search table - passed
+[INFO ] 2022-08-09 13:10:58.555 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:10:59.541 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:10:59.542 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:11:00.681 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:11:01.136 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:11:04.082 [main] Steps - login button clicked
+[INFO ] 2022-08-09 13:11:04.097 [main] Steps - user can view dashboard test passed.
+[INFO ] 2022-08-09 13:11:04.220 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:11:07.474 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:11:07.552 [main] Steps - user enter firstname..
+[INFO ] 2022-08-09 13:11:07.613 [main] Steps - user enter lasttname...
+[INFO ] 2022-08-09 13:11:07.662 [main] Steps - Clicked on search button.
+[INFO ] 2022-08-09 13:11:09.838 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:11:11.226 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:11:11.228 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:11:12.146 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:11:12.409 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:11:14.973 [main] Steps - login button clicked
+[WARN ] 2022-08-09 13:11:14.981 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-09 13:11:16.626 [main] Steps - user clicked on logout button..
+[WARN ] 2022-08-09 13:11:16.632 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-09 13:11:16.692 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:11:17.535 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:11:17.537 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:11:19.474 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:11:19.671 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:11:23.390 [main] Steps - login button clicked
+[WARN ] 2022-08-09 13:11:23.395 [main] Steps - Test passed: Login feature :Page title matched.
+[FATAL] 2022-08-09 13:19:05.435 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:19:05.472 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:19:36.798 [main] Steps - url opened launced..
+[FATAL] 2022-08-09 13:19:37.899 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:19:37.900 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:19:39.967 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:19:40.122 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:19:43.574 [main] Steps - login button clicked
+[INFO ] 2022-08-09 13:19:43.585 [main] Steps - user can view dashboard test passed.
+[INFO ] 2022-08-09 13:19:43.641 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:19:46.768 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:19:46.869 [main] Steps - email add entered..
+[INFO ] 2022-08-09 13:19:46.915 [main] Steps - Clicked on search button.
+[INFO ] 2022-08-09 13:19:48.984 [main] Steps - User should found Email in the Search table - passed
+[INFO ] 2022-08-09 13:19:49.074 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:19:49.795 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:19:49.796 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:19:50.903 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:19:51.052 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:19:53.723 [main] Steps - login button clicked
+[INFO ] 2022-08-09 13:19:53.731 [main] Steps - user can view dashboard test passed.
+[INFO ] 2022-08-09 13:19:53.776 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:19:56.957 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:19:57.025 [main] Steps - user enter firstname..
+[INFO ] 2022-08-09 13:19:57.079 [main] Steps - user enter lasttname...
+[INFO ] 2022-08-09 13:19:57.124 [main] Steps - Clicked on search button.
+[INFO ] 2022-08-09 13:19:59.226 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:19:59.928 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:19:59.929 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:20:02.037 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:20:02.188 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:20:05.600 [main] Steps - login button clicked
+[WARN ] 2022-08-09 13:20:05.607 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-09 13:20:07.511 [main] Steps - user clicked on logout button..
+[WARN ] 2022-08-09 13:20:07.520 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-09 13:20:07.564 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:20:08.492 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:20:08.494 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:20:10.265 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:20:10.416 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:20:14.102 [main] Steps - login button clicked
+[WARN ] 2022-08-09 13:20:14.109 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-09 13:20:15.885 [main] Steps - user clicked on logout button..
+[WARN ] 2022-08-09 13:20:15.891 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-09 13:20:15.932 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:31:56.277 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:31:56.320 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:31:58.401 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:31:58.568 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:32:02.083 [main] Steps - login button clicked
+[INFO ] 2022-08-09 13:32:02.095 [main] Steps - user can view dashboard test passed.
+[INFO ] 2022-08-09 13:32:02.153 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:32:05.272 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:32:06.466 [main] Steps - user clicked add new button..
+[INFO ] 2022-08-09 13:32:06.476 [main] Steps - User can view Add new customer page- passed
+[INFO ] 2022-08-09 13:32:07.108 [main] Steps - customer information entered..
+[INFO ] 2022-08-09 13:32:08.528 [main] Steps - user clicked on save button..
+[INFO ] 2022-08-09 13:32:08.670 [main] Steps - User can view confirmation message - passed
+[INFO ] 2022-08-09 13:32:08.718 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:32:09.502 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:32:09.503 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:32:11.531 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:32:11.686 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:32:15.451 [main] Steps - login button clicked
+[INFO ] 2022-08-09 13:32:15.460 [main] Steps - user can view dashboard test passed.
+[INFO ] 2022-08-09 13:32:15.627 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:32:18.794 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:32:18.877 [main] Steps - email add entered..
+[INFO ] 2022-08-09 13:32:18.922 [main] Steps - Clicked on search button.
+[INFO ] 2022-08-09 13:32:20.969 [main] Steps - User should found Email in the Search table - passed
+[INFO ] 2022-08-09 13:32:21.016 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:32:21.743 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:32:21.745 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:32:23.795 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:32:23.952 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:32:27.593 [main] Steps - login button clicked
+[INFO ] 2022-08-09 13:32:27.646 [main] Steps - user can view dashboard test passed.
+[INFO ] 2022-08-09 13:32:27.843 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:32:30.988 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-09 13:32:31.058 [main] Steps - user enter firstname..
+[INFO ] 2022-08-09 13:32:31.115 [main] Steps - user enter lasttname...
+[INFO ] 2022-08-09 13:32:31.166 [main] Steps - Clicked on search button.
+[INFO ] 2022-08-09 13:32:33.256 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:32:34.008 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:32:34.009 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:32:35.749 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:32:35.895 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:32:39.424 [main] Steps - login button clicked
+[WARN ] 2022-08-09 13:32:39.434 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-09 13:32:41.081 [main] Steps - user clicked on logout button..
+[WARN ] 2022-08-09 13:32:41.088 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-09 13:32:41.131 [main] Steps -  browser closed..
+[FATAL] 2022-08-09 13:32:41.846 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-09 13:32:41.848 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-09 13:32:43.834 [main] Steps - url opened launced..
+[INFO ] 2022-08-09 13:32:43.980 [main] Steps - email address and password entered
+[INFO ] 2022-08-09 13:32:47.859 [main] Steps - login button clicked
+[WARN ] 2022-08-09 13:32:47.910 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-09 13:32:49.419 [main] Steps - user clicked on logout button..
+[WARN ] 2022-08-09 13:32:49.423 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-09 13:32:49.470 [main] Steps -  browser closed..
+[FATAL] 2022-08-10 21:20:20.599 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-10 21:20:20.733 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-10 21:20:23.159 [main] Steps - url opened launced..
+[INFO ] 2022-08-10 21:20:23.655 [main] Steps - email address and password entered
+[INFO ] 2022-08-10 21:20:28.532 [main] Steps - login button clicked
+[INFO ] 2022-08-10 21:20:28.553 [main] Steps - user can view dashboard test passed.
+[INFO ] 2022-08-10 21:20:28.745 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-10 21:20:33.275 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-10 21:20:37.524 [main] Steps - user clicked add new button..
+[INFO ] 2022-08-10 21:20:37.545 [main] Steps - User can view Add new customer page- passed
+[INFO ] 2022-08-10 21:20:39.093 [main] Steps - customer information entered..
+[INFO ] 2022-08-10 21:20:41.653 [main] Steps - user clicked on save button..
+[INFO ] 2022-08-10 21:20:41.883 [main] Steps - User can view confirmation message - passed
+[INFO ] 2022-08-10 21:20:42.001 [main] Steps -  browser closed..
+[FATAL] 2022-08-10 21:20:43.000 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-10 21:20:43.003 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-10 21:20:44.305 [main] Steps - url opened launced..
+[INFO ] 2022-08-10 21:20:44.634 [main] Steps - email address and password entered
+[INFO ] 2022-08-10 21:20:47.429 [main] Steps - login button clicked
+[INFO ] 2022-08-10 21:20:47.441 [main] Steps - user can view dashboard test passed.
+[INFO ] 2022-08-10 21:20:47.518 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-10 21:20:51.007 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-10 21:20:51.188 [main] Steps - email add entered..
+[INFO ] 2022-08-10 21:20:51.305 [main] Steps - Clicked on search button.
+[INFO ] 2022-08-10 21:20:53.422 [main] Steps - User should found Email in the Search table - passed
+[INFO ] 2022-08-10 21:20:53.520 [main] Steps -  browser closed..
+[FATAL] 2022-08-10 21:20:54.518 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-10 21:20:54.522 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-10 21:20:56.843 [main] Steps - url opened launced..
+[INFO ] 2022-08-10 21:20:57.120 [main] Steps - email address and password entered
+[INFO ] 2022-08-10 21:21:00.826 [main] Steps - login button clicked
+[INFO ] 2022-08-10 21:21:00.835 [main] Steps - user can view dashboard test passed.
+[INFO ] 2022-08-10 21:21:00.921 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-10 21:21:04.510 [main] Steps - user clicked on customer menu..
+[INFO ] 2022-08-10 21:21:04.631 [main] Steps - user enter firstname..
+[INFO ] 2022-08-10 21:21:04.725 [main] Steps - user enter lasttname...
+[INFO ] 2022-08-10 21:21:04.808 [main] Steps - Clicked on search button.
+[INFO ] 2022-08-10 21:21:06.960 [main] Steps -  browser closed..
+[FATAL] 2022-08-10 21:21:08.002 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-10 21:21:08.005 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-10 21:21:09.270 [main] Steps - url opened launced..
+[INFO ] 2022-08-10 21:21:09.638 [main] Steps - email address and password entered
+[INFO ] 2022-08-10 21:21:12.896 [main] Steps - login button clicked
+[WARN ] 2022-08-10 21:21:12.906 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-10 21:21:14.548 [main] Steps - user clicked on logout button..
+[WARN ] 2022-08-10 21:21:14.556 [main] Steps - Test passed: Login feature :Page title matched.
+[INFO ] 2022-08-10 21:21:14.643 [main] Steps -  browser closed..
+[FATAL] 2022-08-10 21:21:15.609 [main] Steps - Setup1 executed...
+[INFO ] 2022-08-10 21:21:15.610 [main] Steps - chrome browser launced..
+[INFO ] 2022-08-10 21:21:17.892 [main] Steps - url opened launced..
+[INFO ] 2022-08-10 21:21:18.376 [main] Steps - email address and password entered
+[INFO ] 2022-08-10 21:21:23.120 [main] Steps - login button clicked
+[WARN ] 2022-08-10 21:21:23.138 [main] Steps - Test passed: Login feature :Page title matched.
